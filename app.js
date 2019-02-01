@@ -372,7 +372,7 @@ function endCrntPlayersTurn(){
 
 function randomDiceGen(){
   let x = Math.floor(Math.random() * Math.floor(6))+1;
-  console.log(x)
+//   console.log(x)
   return x;
   // returns 1 - 6.
 }
